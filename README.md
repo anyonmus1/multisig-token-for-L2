@@ -68,7 +68,7 @@ This contract includes several security features:
 
 ## License
 
-MIT License - see LICENSE.md
+MIT License 
 
 ## Contact
 
